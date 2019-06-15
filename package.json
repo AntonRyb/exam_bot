@@ -1,0 +1,24 @@
+{
+  "name": "exam_bot",
+  "version": "1.0.0",
+  "description": "",
+  "main": "bot.js",
+  "dependencies": {
+    "node-telegram-bot-api": "^0.30.0",
+    "request": "^2.88.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AntonRyb/exam_bot.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/AntonRyb/exam_bot/issues"
+  },
+  "homepage": "https://github.com/AntonRyb/exam_bot#readme"
+}
