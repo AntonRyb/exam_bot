@@ -1,0 +1,6 @@
+{
+  "version": 2,
+  "name": "bot_ex",
+  "builds": [{ "src": "index.js", "use": "@now/node", "config": { "maxLambdaSize": "50mb" } }],
+  "env": {   "BOT_TOKEN": "608783806:AAEIm9YHSELLgbNGz8Q6Ib4cmmwS48ly4Tk"}
+}
