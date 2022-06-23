@@ -5,7 +5,7 @@
   "main": "bot.js",
   "dependencies": {
     "canvas": "^2.5.0",
-    "jsdom": "^15.1.1",
+    "jsdom": "^16.5.0",
     "node-telegram-bot-api": "^0.30.0",
     "request": "^2.88.0"
   },
